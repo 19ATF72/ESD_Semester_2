@@ -1,0 +1,133 @@
+WEEK 1
+
+Selection criteria when choosing software:
+
+Usable,
+Credible,
+Cost-effective and have a easy deployment process.
+Preferably open source,
+Be in active development & receiving updates. (Must provide a mechanism for reporting bugs / receiving fixes)
+Be cross-platform available on the major 3.
+Must provide group working capabilities, 
+must provide a form of version control, this callibration and online efficient team working.
+Must provide for online and for in person work.
+
+
+Dr Mohammed Odeh - research paper in regards to change managements software.
+They want to see how far you can critically analyse the problem.
+
+
+Must be able to fufill all the requirements set out in the initial requirements gathering process.
+It must be a standard tool usable within the industry.
+
+Performing risk analysis of tools available.
+
+Most important factor for risk analysis appears to be the version control process for large teams working fully online and will therefore receive a high ranking for our problems.
+
+Security or data protection around the project, what if the client wants a open or closed source project. What to do if a client is concerned about user privacy or application security.
+
+This depends on which 
+
+What to do if version control is not provided by default?
+
+If you cannot find software then you have to integrate a workflow process for people working on the project to follow version control for the current projects. So therefore integrate git into a workflow for people using it.
+
+Consider the long term usage and support for purchasing the project.
+Also consider the future usage for the software, invest into a piece of software that will likely be used in the future.
+
+Must integrate well with GDPR and data protection.
+
+Second it appears cross compatibility is essential.
+
+Need to consider the cost of aquisition and ROI
+Need to consider the license costs / maintenance / integration costs.
+Need to manage the risks of outsourcing and the complexity, avoid re-inventing the wheel.
+
+Chosen One
+Dagrams.net
+Usable
+Credible
+Free
+Easy deployment & integration
+Not Open Source - Better security
+In active development
+Cross platform, web based & supports the big 3
+Provides the standard static, class, sequence, activity, state, etc
+Effective with teams uses Version control
+
+Item 1
+Modelio
+Usable
+Credible
+Free
+Easy deployment process
+Open source
+Active development & receiving updates
+Cross-platform, all big 3
+Provides the standard static, class, sequence, activity, state, etc
+Standard tool usable within the industry UNSURE
+Effective with teams uses Version control
+
+Item 2
+GenMyModel
+Usable
+Credible
+Free - solo / 85 per month.
+Easy deployment process
+No
+Active development & receiving updates
+Cross-platform, all big 3
+Provides the standard static, class, sequence, activity, state, etc
+Effective with teams uses Version control, and integration of a central DB, also provides role based access rights
+Uses Jira and confluence
+
+Item 3
+Draw.io
+Usable
+Credible
+FREE
+Easy deployment process
+Open source
+Be in active development & receiving updates
+Cross-platform available (web-based)
+Fufills all the requirements set out in the initial requirements gathering process.
+UNSURE It must be a standard tool usable within the industry. 
+UNSURE Effective with team use
+UNSURE Version control 
+
+Item 4
+Lucidchart
+Usable
+Credible
+NOT free. Free trial does exist, or $9 per user for team
+Easy deployment process
+NOT open source
+Be in active development & receiving updates
+Cross-platform available (web-based)
+Fufills all the requirements set out in the initial requirements gathering process.
+It must be a standard tool usable within the industry.
+UNSURE Effective with team use
+UNSURE Version control 
+
+Item 5
+Cacoo
+Usable
+Credible
+NOT free. $5 per user per month or $9 per team (of 3) per month
+Easy deployment process
+NOT Open source
+Active development & receiving updates
+Cross-platform available (web-based)
+UNSURE Fufill all the requirements set out in the initial requirements gathering process. (Focuses on all kinds of cloud-based diagrams. Really on the “drawing-end” (and not the modelling one))
+Standard tool usable within the industry.
+Effective with team use
+Version control
+
+Item 6
+Astah - This
+
+Item 7
+StarUML - This
+
+Item 8
+EMFCompare - Research
