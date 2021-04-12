@@ -5,6 +5,7 @@ Selection criteria when choosing software:
 Usable,
 Credible,
 Cost-effective and have a easy deployment process.
+How integratable it is and how forward proof it is.
 Preferably open source,
 Be in active development & receiving updates. (Must provide a mechanism for reporting bugs / receiving fixes)
 Be cross-platform available on the major 3.
@@ -42,6 +43,9 @@ Second it appears cross compatibility is essential.
 Need to consider the cost of aquisition and ROI
 Need to consider the license costs / maintenance / integration costs.
 Need to manage the risks of outsourcing and the complexity, avoid re-inventing the wheel.
+
+Test driven development was not well suported in the modelling framework of our choice.
+It only supports text entries and simple tables, this is quite inadequate and we had to resort to using excel since it supports better table inputs 
 
 Chosen One
 Dagrams.net
